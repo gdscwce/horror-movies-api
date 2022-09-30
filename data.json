@@ -2,11 +2,17 @@
 {
 "id":1,
 "name":"Host",
-"yearReleased":"2020",
+"yearReleased":"2020",0
 "language":"English",
  "director":"Andy Newbery",
  },
- 
+ {
+"id":2,
+"name":"paranormal activity",
+"yearReleased":"2016",
+"language":"English",
+"director":"Samir Karemore",
+ }
  
 
 ]
