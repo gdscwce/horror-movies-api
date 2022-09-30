@@ -175,21 +175,6 @@
       "language": "English",
       "director": "Ti West"
 
-    },
- 
-     {
-    "id": 21,
-    "name": "Psycho",
-    "yearReleased": "1960",
-    "language": "English",
-    "director": " Alfred Hitchcock"
-    },
-    {
-        "id": 21,
-        "name": "X",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Ti West"
 
   },
   {
@@ -280,8 +265,7 @@
 
     },
 
-
-{
+    {
         "id": 26,
         "name": "Alien: Covenant",
         "yearReleased": " 2017",
@@ -356,71 +340,26 @@
     }
 
 
- 
-    },
-    {
-        "id": 21,
-        "name": "Annabelle",
-        "yearReleased": "2014",
-        "language": "English",
-        "director": " John R. Leonetti"
-
-
     },
      {
-        "id": 21,
-        "name": "nightmare of the elm street",
-        "yearReleased": "1984",
-        "id": 28,
-        "name": "Midsommar",
-        "yearReleased": "2019",
-        "language": "English",
-        "director": " Ari Aster"
-     {
-        "id": 23,
-        "name": "The Midnigth club",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Mike Flannagan"
-    },
-   {
-        "id": 29,
-
-
-        "id": 29,
-        "name": "Orphan",
-        "yearReleased": "2009",
-        "language": "English",
-        "director": "Jaume Collet-Serra"
-    },
-     {
-        "id": 21,
-        "name": "Bhool Bhulaiyaa 2",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Anees Bazmee"
-
-    }
-     {
-        "id": 21,
-        "name": "6-5=2",
-        "yearReleased": "2013",
-        "language": "Kannada",
-        "director": "K S Ashoka"
-    },
-    {
-        "id": 22,
-        "name": "Arundhati",
-        "yearReleased": "2009",
-        "language": "Telugu",
-        "director": "Kodi Ramakrishna"
         "id": 31,
         "name": "Incantation",
         "yearReleased": "2022",
         "language": "English",
         "director": "Kevin Ko"
-    },
+
+
     }
+    {    
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "William Friedkin"
+
+
+    }
+
      {
         "id": 32,
         "name": "Bhool Bhulaiyaa  ",
@@ -428,39 +367,24 @@
         "language": "Hindi",
         "director": "Priyadarshan"
 
-    }
 
-    },{
+    },
+    {
     "id": 32,
         "name": "stree",
         "yearReleased": "2019",
         "language": "Hindi",
         "director": "Amar Kaushik"
-
  
         },
-{
+  {
     "id": 33,
-        "name": "Tumbad",
+        "name": "Hereditary",
         "yearReleased": "2018",
-        "language": "Hindi",
-        "director": "Rahi Barve"
-},
-    
- {
-        "id": 99,
-        "name": "kalo",
-        "yearReleased": "1960",
-        "language": "hindi",
-        "director": "pata nahi"
-
-    },
-{
-  "id": 52,
-   "name": "Alone",
-    "yearReleased": "2015",
-    "language" : "Hindi",
-    "director": "Bhushan Patel"
-}
+        "language": "English",
+        "director": "Ari Aster"
+ 
+        }
+ 
  
 ]
