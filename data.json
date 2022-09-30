@@ -4592,6 +4592,11 @@
       "yearReleased": "2016",
       "language": "English",
       "director": "Dan Trachtenberg"
-  }
-  ]
-
+},
+{     
+          "id":105,
+          "name": "The Exorcist",
+          "yearReleased": "1973",
+          "language": "English",
+          "director": "William Friedkin"
+},
