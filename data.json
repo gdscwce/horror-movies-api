@@ -154,5 +154,12 @@
         "director": "Anees Bazmee"
 
 
-    }
+    },
+    {
+        "id": 22,
+        "name": "Bhoot",
+        "yearReleased": "2022",
+        "language": "hindi",
+        "director": "Bhanu Pratap Singh"
+    },
 ]
