@@ -9,11 +9,12 @@ Add your data in double quotes : " ",
 
 template :
  
-{
-
+```
+{  
     "id": ,
     "name": " ",
     "yearReleased": " ",
     "language": " ",
     "director": " "
 }
+```
