@@ -7,7 +7,7 @@ Still if you are unable to find info you can write NIL.
 Add your data in double quotes : " ",  
 (don't use " " for numbers)
 
-template :
+Template :
  
 ```
 {  
