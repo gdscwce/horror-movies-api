@@ -18,3 +18,19 @@ Template :
     "director": " "
 }
 ```
+
+### Install and Run the API locally:
+
+1. Install dependencies:
+`npm install` or `yarn`
+
+2. Run locally:
+`npm run start` or `yarn start`
+
+### Routes
+
+Total number of movies:
+http://localhost:5000
+
+Get a random movie:
+http://localhost:5000/random
