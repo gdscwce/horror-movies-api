@@ -4681,7 +4681,7 @@
     "yearReleased": "2018",
     "language": "Bengali",
     "director": "Arindam Bhattacharya"
-
+    },
     {
     "id": 103,
     "name": "Curse of the nun",
@@ -4703,6 +4703,13 @@
     "yearReleased": "2013",
     "language": "English",
     "director": "James Wan"  
+},
+{
+    "id": 676,
+    "name": "Munafik",
+    "yearReleased": "2016",
+    "language": "Melayu",
+    "director": "Syamsul Yusof"  
 }
 
 ]
