@@ -1,4 +1,5 @@
 node_modules
 .deta
 package-lock.json
+yarn.lock
 deta
