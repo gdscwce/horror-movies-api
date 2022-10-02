@@ -10,6 +10,7 @@
   },
   "scripts": {
     "start": "node ./index.js",
+    "add-movie": "node ./src/addMovie.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "description": "",

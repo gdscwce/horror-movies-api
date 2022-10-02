@@ -1,8 +1,9 @@
 const express = require('express')
 const app = express()
+const data = require('./data.json')
+
 const PORT = 5000
 
-const data = require('./data.json')
 app.use(express.json())
 
 app.get('/', (req, res) => {
