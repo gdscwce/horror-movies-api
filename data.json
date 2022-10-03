@@ -4704,5 +4704,12 @@
     "language": "English",
     "director": "James Wan"  
 }
+      {
+          "id": 106,
+          "name": "Wrong Turn 5",
+          "yearReleased": "2018",
+          "language": "English",
+          "director": "Declan O'Brien"
+      },
 
 ]
