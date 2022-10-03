@@ -33,4 +33,10 @@
     "url": "https://github.com/nirmitchattoo/horror-movies-api/issues"
   },
   "homepage": "https://github.com/nirmitchattoo/horror-movies-api#readme"
-}
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  },
