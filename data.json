@@ -4696,13 +4696,22 @@
     "yearReleased": "2022",
     "language": "English",
     "director": "William Brent Bell"
-},
+    },
+	
     {
     "id": 105,
     "name": "The conjuring",
     "yearReleased": "2013",
     "language": "English",
     "director": "James Wan"  
-}
+    },
+
+    {
+    "id": 107,
+    "name": "The Thing",
+    "yearReleased": "1982",
+    "language": "English",
+    "director": "John Carpenter"
+    }
 
 ]
