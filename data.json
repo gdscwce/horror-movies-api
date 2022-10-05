@@ -6,6 +6,13 @@
           "language": "English",
           "director": "Andy dataser"
       },
+      {
+          "id": 2,
+          "name": "Alive",
+          "yearReleased": "2020",
+          "language": "Korean",
+          "director": "Won-Ho Son"
+      },
     
       {
           "id": 3,
