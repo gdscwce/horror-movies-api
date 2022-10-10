@@ -4667,6 +4667,13 @@
     "language": "Hindi",
     "director": "Vikram Kumar"
 },
+{
+    "id": 153,
+    "name": "Hostel",
+    "yearReleased": "2005",
+    "language": "English",
+    "director": "Eli Roth"
+},
    {
     "id": 102,
     "name": "Resident Evil",
@@ -4688,7 +4695,7 @@
     "yearReleased": "2018",
     "language": "Bengali",
     "director": "Arindam Bhattacharya"
-
+    },
     {
     "id": 103,
     "name": "Curse of the nun",
@@ -4740,6 +4747,7 @@
           "yearReleased": "2017",
           "language": "Hindi",
           "director": "P. Vasu"  
-      },
+      }
+      
 
 ]
