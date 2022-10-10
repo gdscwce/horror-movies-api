@@ -6,6 +6,13 @@
           "language": "English",
           "director": "Andy dataser"
       },
+       {
+          "id": 2,
+          "name": "The Conjuring: The Devil Made Me Do It",
+          "yearReleased": "2021",
+          "language": "English, Hindi",
+          "director": "Michael Chaves"
+      },
     
       {
           "id": 3,
@@ -4681,6 +4688,7 @@
     "yearReleased": "2018",
     "language": "Bengali",
     "director": "Arindam Bhattacharya"
+    },
 
     {
     "id": 103,
@@ -4706,12 +4714,40 @@
     "director": "James Wan"  
     },
 
-    {
+{
+    "id": 106,
+    "name": "The Cabin in woods",
+    "yearReleased": "2012",
+    "language": "English",
+    "director": "Drew Goddard"  
+},
+{
     "id": 107,
+    "name": "Kanchana Returns",
+    "yearReleased": "2017",
+    "language": "Hindi",
+    "director": "P. Vasu"  
+ },
+ {
+    "id": 108,
+    "name": "The Cabin in woods 2",
+    "yearReleased": "2012",
+    "language": "English",
+    "director": "Drew Goddard"  
+ },
+ {
+   "id": 109,
+    "name": "Kanchana Returns 2",
+    "yearReleased": "2017",
+    "language": "Hindi",
+    "director": "P. Vasu"  
+},
+{
+    "id": 110,
     "name": "The Thing",
     "yearReleased": "1982",
     "language": "English",
     "director": "John Carpenter"
-    }
+}
 
 ]
