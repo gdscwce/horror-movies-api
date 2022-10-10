@@ -4711,9 +4711,14 @@
     "language": "English",
     "director": "James Wan"  
 },
-
-
-          {
+{
+    "id": 106,
+    "name": "The Black Phone",
+    "yearReleased": "2021",
+    "language": "English",
+    "director": "Scott Derrickson"  
+}
+,          {
     "id": 106,
     "name": "The Cabin in woods",
     "yearReleased": "2012",
@@ -4741,5 +4746,4 @@
           "language": "Hindi",
           "director": "P. Vasu"  
       },
-
 ]
