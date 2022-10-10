@@ -4719,7 +4719,7 @@
     "yearReleased": "2012",
     "language": "English",
     "director": "Drew Goddard"  
-},
+      },
      {
           "id": 105,
           "name": "Kanchana Returns",
@@ -4727,19 +4727,25 @@
           "language": "Hindi",
           "director": "P. Vasu"  
       },
-   {
-    "id": 107,
-    "name": "The Cabin in woods 2",
-    "yearReleased": "2012",
-    "language": "English",
-    "director": "Drew Goddard"  
-},
-     {
-          "id": 108,
-          "name": "Kanchana Returns 2",
-          "yearReleased": "2017",
-          "language": "Hindi",
-          "director": "P. Vasu"  
+      {
+            "id": 107,
+            "name": "The Cabin in woods 2",
+            "yearReleased": "2012",
+            "language": "English",
+            "director": "Drew Goddard"  
       },
-
+      {
+            "id": 108,
+            "name": "Kanchana Returns 2",
+            "yearReleased": "2017",
+            "language": "Hindi",
+            "director": "P. Vasu"  
+      },
+      {
+            "id": 109,
+            "name": "Halloween",
+            "yearReleased": "1978",
+            "language": "English",
+            "director": "John Carpenter"
+      }
 ]
