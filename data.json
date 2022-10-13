@@ -4741,5 +4741,12 @@
           "language": "Hindi",
           "director": "P. Vasu"  
       },
+      {
+          "id": 110,
+          "name": "X",
+          "yearReleased": "2022",
+          "language": "English",
+          "director": "Ti West"  
+      },
 
 ]
