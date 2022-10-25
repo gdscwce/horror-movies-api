@@ -4710,7 +4710,14 @@
     "yearReleased": "2013",
     "language": "English",
     "director": "James Wan"  
-},
+    },
+     {
+    "id": 106,
+    "name": "Fantasy Island",
+    "yearReleased": "202",
+    "language": "English",
+"Jeff Wadlow"  
+    },
 
     {
     "id": 105,
@@ -4764,6 +4771,5 @@
           "language": "English, Hindi",
           "director": "Corin Hardy"  
       }
-
 
 ]
