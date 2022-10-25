@@ -6,6 +6,13 @@
           "language": "English",
           "director": "Andy dataser"
       },
+       {
+          "id": 2,
+          "name": "The Conjuring: The Devil Made Me Do It",
+          "yearReleased": "2021",
+          "language": "English, Hindi",
+          "director": "Michael Chaves"
+      },
     
       {
           "id": 3,
@@ -4711,5 +4718,58 @@
     "language": "English",
 "Jeff Wadlow"  
     },
-       
+
+    {
+    "id": 105,
+    "name": "RAW",
+    "yearReleased": "2016",
+    "language": "French",
+    "director": "Julia Ducournau"  
+},
+
+
+
+          {
+    "id": 106,
+    "name": "The Cabin in woods",
+    "yearReleased": "2012",
+    "language": "English",
+    "director": "Drew Goddard"  
+},
+     {
+          "id": 105,
+          "name": "Kanchana Returns",
+          "yearReleased": "2017",
+          "language": "Hindi",
+          "director": "P. Vasu"  
+      },
+   {
+    "id": 107,
+    "name": "The Cabin in woods 2",
+    "yearReleased": "2012",
+    "language": "English",
+    "director": "Drew Goddard"  
+},
+     {
+          "id": 108,
+          "name": "Kanchana Returns 2",
+          "yearReleased": "2017",
+          "language": "Hindi",
+          "director": "P. Vasu"  
+      },
+        {
+          "id": 109,
+          "name": "It Chapter 1",
+          "yearReleased": "2017",
+          "language": "English, Hindi",
+          "director": "Andy Muschietti"  
+      },
+      {
+          "id": 110,
+          "name": "The Nun",
+          "yearReleased": "2018",
+          "language": "English, Hindi",
+          "director": "Corin Hardy"  
+      }
+
 ]
